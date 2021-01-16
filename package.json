@@ -1,6 +1,6 @@
 {
   "name": "simulador-de-carro-manual",
-  "http://fellipeoliveirabartalini.github.io/simulador-de-carro-manual",
+  "homepage":"http://fellipeoliveirabartalini.github.io/simulador-de-carro-manual",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
