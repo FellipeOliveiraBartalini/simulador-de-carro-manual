@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/simulador-de-carro-manual/static/css/main.10cb47b9.chunk.css",
+    "main.js": "/simulador-de-carro-manual/static/js/main.4b03a304.chunk.js",
+    "main.js.map": "/simulador-de-carro-manual/static/js/main.4b03a304.chunk.js.map",
+    "runtime-main.js": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js",
+    "runtime-main.js.map": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js.map",
+    "static/js/2.a39a304c.chunk.js": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js",
+    "static/js/2.a39a304c.chunk.js.map": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js.map",
+    "index.html": "/simulador-de-carro-manual/index.html",
+    "static/css/main.10cb47b9.chunk.css.map": "/simulador-de-carro-manual/static/css/main.10cb47b9.chunk.css.map",
+    "static/js/2.a39a304c.chunk.js.LICENSE.txt": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js.LICENSE.txt",
+    "static/media/cambio.997c03b9.png": "/simulador-de-carro-manual/static/media/cambio.997c03b9.png",
+    "static/media/cambio01.625adfb4.png": "/simulador-de-carro-manual/static/media/cambio01.625adfb4.png",
+    "static/media/cambio02.2f0d0217.png": "/simulador-de-carro-manual/static/media/cambio02.2f0d0217.png",
+    "static/media/cambio03.19b3c32e.png": "/simulador-de-carro-manual/static/media/cambio03.19b3c32e.png",
+    "static/media/cambio04.1222edbf.png": "/simulador-de-carro-manual/static/media/cambio04.1222edbf.png",
+    "static/media/cambio05.5c629012.png": "/simulador-de-carro-manual/static/media/cambio05.5c629012.png",
+    "static/media/cambioR.a6069af5.png": "/simulador-de-carro-manual/static/media/cambioR.a6069af5.png",
+    "static/media/pedais-acel.6a9153c9.png": "/simulador-de-carro-manual/static/media/pedais-acel.6a9153c9.png",
+    "static/media/pedais-embrl.738632f6.png": "/simulador-de-carro-manual/static/media/pedais-embrl.738632f6.png",
+    "static/media/pedais-freio.c1e925f7.png": "/simulador-de-carro-manual/static/media/pedais-freio.c1e925f7.png",
+    "static/media/pedais-todos.d45c3a38.png": "/simulador-de-carro-manual/static/media/pedais-todos.d45c3a38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c384f7.js",
+    "static/js/2.a39a304c.chunk.js",
+    "static/css/main.10cb47b9.chunk.css",
+    "static/js/main.4b03a304.chunk.js"
+  ]
+}
