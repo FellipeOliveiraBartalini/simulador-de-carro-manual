@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/simulador-de-carro-manual/static/css/main.10cb47b9.chunk.css",
-    "main.js": "/simulador-de-carro-manual/static/js/main.4b03a304.chunk.js",
-    "main.js.map": "/simulador-de-carro-manual/static/js/main.4b03a304.chunk.js.map",
+    "main.js": "/simulador-de-carro-manual/static/js/main.9bd2e567.chunk.js",
+    "main.js.map": "/simulador-de-carro-manual/static/js/main.9bd2e567.chunk.js.map",
     "runtime-main.js": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js",
     "runtime-main.js.map": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js.map",
     "static/js/2.a39a304c.chunk.js": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.83c384f7.js",
     "static/js/2.a39a304c.chunk.js",
     "static/css/main.10cb47b9.chunk.css",
-    "static/js/main.4b03a304.chunk.js"
+    "static/js/main.9bd2e567.chunk.js"
   ]
 }
