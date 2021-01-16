@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simulador-de-carro-manual/static/css/main.10cb47b9.chunk.css",
-    "main.js": "/simulador-de-carro-manual/static/js/main.9bd2e567.chunk.js",
-    "main.js.map": "/simulador-de-carro-manual/static/js/main.9bd2e567.chunk.js.map",
+    "main.css": "/simulador-de-carro-manual/static/css/main.d8b7d481.chunk.css",
+    "main.js": "/simulador-de-carro-manual/static/js/main.9c1e56fd.chunk.js",
+    "main.js.map": "/simulador-de-carro-manual/static/js/main.9c1e56fd.chunk.js.map",
     "runtime-main.js": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js",
     "runtime-main.js.map": "/simulador-de-carro-manual/static/js/runtime-main.83c384f7.js.map",
-    "static/js/2.a39a304c.chunk.js": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js",
-    "static/js/2.a39a304c.chunk.js.map": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js.map",
+    "static/js/2.f3430f75.chunk.js": "/simulador-de-carro-manual/static/js/2.f3430f75.chunk.js",
+    "static/js/2.f3430f75.chunk.js.map": "/simulador-de-carro-manual/static/js/2.f3430f75.chunk.js.map",
     "index.html": "/simulador-de-carro-manual/index.html",
-    "static/css/main.10cb47b9.chunk.css.map": "/simulador-de-carro-manual/static/css/main.10cb47b9.chunk.css.map",
-    "static/js/2.a39a304c.chunk.js.LICENSE.txt": "/simulador-de-carro-manual/static/js/2.a39a304c.chunk.js.LICENSE.txt",
+    "static/css/main.d8b7d481.chunk.css.map": "/simulador-de-carro-manual/static/css/main.d8b7d481.chunk.css.map",
+    "static/js/2.f3430f75.chunk.js.LICENSE.txt": "/simulador-de-carro-manual/static/js/2.f3430f75.chunk.js.LICENSE.txt",
     "static/media/cambio.997c03b9.png": "/simulador-de-carro-manual/static/media/cambio.997c03b9.png",
     "static/media/cambio01.625adfb4.png": "/simulador-de-carro-manual/static/media/cambio01.625adfb4.png",
     "static/media/cambio02.2f0d0217.png": "/simulador-de-carro-manual/static/media/cambio02.2f0d0217.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.83c384f7.js",
-    "static/js/2.a39a304c.chunk.js",
-    "static/css/main.10cb47b9.chunk.css",
-    "static/js/main.9bd2e567.chunk.js"
+    "static/js/2.f3430f75.chunk.js",
+    "static/css/main.d8b7d481.chunk.css",
+    "static/js/main.9c1e56fd.chunk.js"
   ]
 }
